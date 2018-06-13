@@ -1,0 +1,3 @@
+Location[1] is 19.9558849042 % green
+Location[2] is 36.8039882667 % green
+Location[2] is 1.84426741502 times greener than  Location[1]
